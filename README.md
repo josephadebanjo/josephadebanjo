@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @josephadebanjo
-- 👀 I’m interested in Ml ...
-- 🌱 I’m currently learning ML and its applicaton to Chemistry...
-- 💞️ I’m looking to collaborate on ML and Research...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Joseph adebanjo
+- 👀 I’m interested in Ml, Data Science, and Chemistry  
+- 🌱 I’m currently learning ML and its application to Chemistry
+- 💞️ I’m a PhD Candidate in Chemistry studying photophysics of the coinage metals 
+- 📫 Email:josephadebanjo@gmail.com
 
 <!---
 josephadebanjo/josephadebanjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
